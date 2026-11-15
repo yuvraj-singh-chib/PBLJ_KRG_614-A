@@ -1,0 +1,23 @@
+# Java compiled files
+*.class
+out/
+target/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and test output
+*.log
+test_output.txt
+test_results.txt
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
